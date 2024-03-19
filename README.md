@@ -1,2 +1,2 @@
 # Cards
-cards using html and CSS.
+Creating Cards using html and CSS.
